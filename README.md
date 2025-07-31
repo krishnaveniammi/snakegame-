@@ -1,5 +1,5 @@
 
-# 🐍 Snake Game using Python and Pygame
+# 🐍 Snake Game using Python 
 
 A classic Snake Game built with Python and Pygame. Control the snake to eat the red food, grow longer, and avoid hitting the walls or itself. This simple project is perfect for learning basic game development concepts using the `pygame` library.
 
